@@ -56,7 +56,7 @@ Ocean has been a curious center for human beings from very ancient times. The de
 
 ## Image of the Tool Used
 
-[Tool Used in SolidWorks](images/basket_tool_used.png)
+[Tool Used in SolidWorks](images/basket_tool_used.jpg)
 
 ---
 
