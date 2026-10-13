@@ -1,4 +1,4 @@
-# Computational Design of Euplectella aspergillum-Inspired Basket
+# Concept Design Prototype of a Euplectella aspergillum-Inspired Flower Basket
 
 ## Summary
 
@@ -11,18 +11,18 @@ Ocean has been a curious center for human beings from very ancient times. The de
 
 ---
 
-## CAD Design
+## Computational Design
 
-|   View    |                        Image                         |
-| :-------: | :--------------------------------------------------: |
-| Isometric | ![Isometric View](/images/basket_isometric_view.JPG) |
-|   Left    |      ![Left View](/images/basket_left_view.JPG)      |
-|   Right   |     ![Right View](/images/basket_right_view.JPG)     |
-|   Back    |      ![Back View](/images/basket_back_view.JPG)      |
-|   Front   |     ![Front View](/images/basket_front_view.JPG)     |
-|    Top    |       ![Top View](/images/basket_top_view.JPG)       |
-|  Bottom   |    ![Bottom View](/images/basket_bottom_view.JPG)    |
-|  Section  |   ![Section View](/images/basket_section_view.JPG)   |
+|   View    |                        Image                        |
+| :-------: | :-------------------------------------------------: |
+| Isometric | ![Isometric View](images/basket_isometric_view.JPG) |
+|   Left    |      ![Left View](images/basket_left_view.JPG)      |
+|   Right   |     ![Right View](images/basket_right_view.JPG)     |
+|   Back    |      ![Back View](images/basket_back_view.JPG)      |
+|   Front   |     ![Front View](images/basket_front_view.JPG)     |
+|    Top    |       ![Top View](images/basket_top_view.JPG)       |
+|  Bottom   |    ![Bottom View](images/basket_bottom_view.JPG)    |
+|  Section  |   ![Section View](images/basket_section_view.JPG)   |
 
 ---
 
