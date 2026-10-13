@@ -26,11 +26,37 @@ Ocean has been a curious center for human beings from very ancient times. The de
 
 ---
 
-## Technologies Used
+## Software Used
 
 | Purpose |               Name                |
 | :-----: | :-------------------------------: |
 | Design  | SolidWorks 2024 (Student Version) |
+
+---
+
+## Tools Used
+
+|      Name       |
+| :-------------: |
+| Surface Revolve |
+|  Surface Sweep  |
+| Body Move/Copy  |
+|  Surface Trim   |
+|     Thicken     |
+|   Split Line    |
+|   CirPattern    |
+| Surface Offset  |
+|  Surface Loft   |
+|     Fillet      |
+|      Sweep      |
+|     Sketch      |
+|  Boss Extrude   |
+
+---
+
+## Image of the Tool Used
+
+[Tool Used in SolidWorks](images/basket_tool_used.png)
 
 ---
 
