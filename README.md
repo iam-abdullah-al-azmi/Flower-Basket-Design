@@ -83,6 +83,12 @@ There is a lot of room for improvement. Firstly, the computational design proces
 
 ---
 
+## Acknowledgements
+
+Special thanks to the [EasyCAD Solutions](https://www.youtube.com/@EasyCADSolutions) YouTube channel for the SolidWorks tutorials that helped in creating this design.
+
+---
+
 ## References
 
 [^1]: [Venus' flower basket](https://en.wikipedia.org/wiki/Venus%27_flower_basket)
@@ -92,9 +98,3 @@ There is a lot of room for improvement. Firstly, the computational design proces
 [^3]: [A spectacular group of Venus flower basket glass sponges (Euplectella aspergillum) glass sponges with a squat lobster in the middle](https://en.wikipedia.org/wiki/File:Euplectella_aspergillum_Okeanos.jpg)
 
 [^4]: [16 Uses of Wicker Basket: Storage and Decor Ideas That Wow](https://greenlivinglife.com/blogs/greenlife/uses-of-wicker-basket-storage-and-decor-ideas)
-
----
-
-## Acknowledgements
-
-Special thanks to the [EasyCAD Solutions](https://www.youtube.com/@EasyCADSolutions) YouTube channel for the SolidWorks tutorials that helped in creating this design.
