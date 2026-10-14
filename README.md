@@ -6,8 +6,8 @@ Ocean has been a curious center for human beings from very ancient times. The de
 
 |                 Name                 |                                         Image                                          |
 | :----------------------------------: | :------------------------------------------------------------------------------------: |
-|     Euplectella Aspergillum [^2]     |         ![Euplectella Aspergillum](/images/basket_euplectella_aspergillum.jpg)         |
-| Euplectella Aspergillum Ekeanos [^3] | ![Euplectella Aspergillum Ekeanos](/images/basket_euplectella_aspergillum_ekeanos.jpg) |
+|     Euplectella Aspergillum [^2]     |         ![Euplectella Aspergillum](images/basket_euplectella_aspergillum.jpg)         |
+| Euplectella Aspergillum Ekeanos [^3] | ![Euplectella Aspergillum Ekeanos](images/basket_euplectella_aspergillum_ekeanos.jpg) |
 
 ---
 
@@ -85,7 +85,7 @@ There is a lot of room for improvement. Firstly, the computational design proces
 
 ## Acknowledgements
 
-Special thanks to the [EasyCAD Solutions](https://www.youtube.com/@EasyCADSolutions) YouTube channel for the SolidWorks tutorials that helped in creating this design. I would also like to thank the [CAD CAM Tutorials](https://www.youtube.com/c/CADCAMTutorials) YouTube channel for its tutorials and learning resources, and [Mr. Md. Abdus Salam](https://mpe.iutoic-dhaka.edu/profile/salam/education), Drafting Instructor, Department of Mechanical and Production Engineering, Islamic University of Technology, for his guidance and support, and for his assistance in our ME 4210 3D Solid Modeling and Assembling lab course.
+Special thanks to the [EasyCAD Solutions](https://www.youtube.com/@EasyCADSolutions) YouTube channel for the SolidWorks tutorials that helped in creating this design. I would also like to thank the [CAD CAM Tutorials](https://www.youtube.com/c/CADCAMTutorials) YouTube channel for its tutorials and learning resources, and [Mr. Md. Abdus Salam](https://mpe.iutoic-dhaka.edu/profile/salam/education), Drafting Instructor, Department of Mechanical and Production Engineering, Islamic University of Technology, for his guidance and support, and for his assistance in our ME 4210 3D Solid Modeling and Assembling lab course. I took assistance from [Claude](https://claude.ai), an AI assistant by [Anthropic](https://www.anthropic.com), in preparing this documentation. I provided the template, and Claude followed it and my instructions.
 
 ---
 
