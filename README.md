@@ -34,7 +34,7 @@ Ocean has been a curious center for human beings from very ancient times. The de
 
 ---
 
-## Tools Used
+## Feature Tree
 
 | No  |      Name       |
 | :-: | :-------------: |
@@ -54,9 +54,9 @@ Ocean has been a curious center for human beings from very ancient times. The de
 
 ---
 
-## Feature Tree
+## Feature Tree Image
 
-![Tool Used in SolidWorks](images/basket_tool_used.png)
+![Feature Tree in SolidWorks](images/basket_feature_tree.png)
 
 ---
 
